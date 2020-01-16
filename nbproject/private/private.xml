@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PBO2-10118052-MVC-DAO/src/edu/bagus/latihanmvcdao/error/PelangganException.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PBO2-10118052-MVC-DAO/src/edu/bagus/latihanmvcdao/event/PelangganListener.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PBO2-10118052-MVC-DAO/src/edu/bagus/latihanmvcdao/model/TabelPelangganModel.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PBO2-10118052-MVC-DAO/src/edu/bagus/latihanmvcdao/impl/PelangganDaoImpl.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PBO2-10118052-MVC-DAO/src/edu/bagus/latihanmvcdao/controller/PelangganController.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PBO2-10118052-MVC-DAO/src/edu/bagus/latihanmvcdao/entity/Pelanggan.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PBO2-10118052-MVC-DAO/src/edu/bagus/latihanmvcdao/database/KingBarbershopDatabase.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PBO2-10118052-MVC-DAO/src/edu/bagus/latihanmvcdao/model/PelangganModel.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PBO2-10118052-MVC-DAO/src/edu/bagus/latihanmvcdao/service/PelangganDao.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PBO2-10118052-MVC-DAO/src/edu/bagus/latihanmvcdao/view/MainViewPelanggan.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PBO2-10118052-MVC-DAO/src/edu/bagus/latihanmvcdao/view/PelangganView.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/PBO2-10118052-MVC-DAO/src/edu/bagus/latihanmvcdao/main/LatihanCRUDMVCDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
